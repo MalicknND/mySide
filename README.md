@@ -2,7 +2,7 @@
 Responsive Portfolio Website Design Using HTML CSS &amp; JavaScript
 
 - Contains animations when scrolling.
-- It has three color designs (green, red and black)
+- It has Two color designs (blue and black)
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
