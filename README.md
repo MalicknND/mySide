@@ -9,4 +9,3 @@ Responsive Portfolio Website Design Using HTML CSS &amp; JavaScript
 
 I learned from YouTube and wrote a test. From where I learned and wrote it, I learned and wrote it from CarpoolVenom.
 
-![Portfolio-Website](/home.png)
